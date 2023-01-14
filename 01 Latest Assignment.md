@@ -20,7 +20,6 @@
 
 # 8: State a end of year goal, and pin it, this is your end goal, if you cannot think of one then an option you can make is 'make a racist sudoku solver
 
-# 9: Make a "Hello World!" program
 
 # 10: Make a table of fahrenheit and centigrade, the initial  should start at `40 fahreheit,` then go up `20 fahreheit increments,` stopping at `320 fahrenheit.`
 For Example
